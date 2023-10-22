@@ -3,19 +3,19 @@ A simple web-based code editor that allows you to write and run HTML, CSS, and J
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 # Features
-# Code Editing:
+  Code Editing:-
   Edit HTML, CSS, and JavaScript code in dedicated text areas.
 
-# Code Compilation: 
+  Code Compilation:- 
   Click the "RUN" button to compile and execute your code in real-time. The output is displayed in an iframe on the right side.
 
-# Copy Output: 
+  Copy Output:-
   Click the "COPY" button to copy the output displayed in the iframe to your clipboard.
 
-# Lock/Unlock Editor: 
+  Lock/Unlock Editor:-
   Toggle between locking and unlocking the code editor. When locked, you cannot run or edit the code.
 
-# Save Code: 
+  Save Code:-
   Click the "SAVE" button to download the code as a text file. The downloaded file contains your HTML, CSS, and JavaScript code.
   
 
@@ -40,16 +40,16 @@ React: This code editor is built using React, a popular JavaScript library for b
 JavaScript: The editor compiles and runs JavaScript code in an iframe.
 
 # Installation
-1. Clone this repository to your local machine.
+1. Clone this repository to your local machine-
    git clone <repository-url>
    
-2. Navigate to the project directory.
+2. Navigate to the project directory-
    cd code-editor-web-app
    
-3. Install the required dependencies.
+3. Install the required dependencies-
    npm install
 
-4. Start the development server.
+4. Start the development server-
    npm start
    
 5. Open your web browser and access the app at http://localhost:3000.
