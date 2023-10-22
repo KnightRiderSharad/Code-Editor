@@ -1,4 +1,4 @@
-# Code Editor Web App
+# Code-Editor Web App
 A simple web-based code editor that allows you to write and run HTML, CSS, and JavaScript code in real-time. This code editor provides basic code editing features, code compilation, copying the output, and locking/unlocking the editor.
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
@@ -62,7 +62,8 @@ Kumar Sharad
 github url- https://github.com/KnightRiderSharad/Code-Editor
 
 
-
+# Deployment
+The Code-Editor Web App is deplyed on Netlify and can be accessed at https://spectacular-frangollo-e4fd6b.netlify.app/
 
 
 
